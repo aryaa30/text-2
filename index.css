@@ -1264,9 +1264,9 @@ h6:hover {
 /* media query */
 @media screen and (max-width:450px) {
 
-    /* body{
+    body{
         overflow-x: hidden;
-    } */
+    }
     .main_1 .links {
         display: none;
     }
