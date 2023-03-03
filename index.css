@@ -1266,6 +1266,7 @@ h6:hover {
 
     body{
         overflow-x: hidden;
+        width:400px
     }
     .main_1 .links {
         display: none;
